@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Financia</string>
+    <string name="title_expense">Expense</string>
+    <string name="title_bill">Bill</string>
+    <string name="title_stats">Statistics</string>
+
+</resources>
